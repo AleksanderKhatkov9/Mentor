@@ -16,7 +16,7 @@
 
 1. [php.net: Массивы](https://www.php.net/manual/ru/language.types.array.php) (1 час)
 2. [php.net: Функции для работы с массивами](https://www.php.net/manual/ru/ref.array.php) — прочитать описание функций из таблицы ниже (1 час)
-3. [Code Basics: PHP](https://ru.code-basics.com/languages/php) или [Хекслет: PHP: Массивы](https://ru.hexlet.io/courses/php-arrays) — первые уроки (1 час)
+3. [Code Basics: PHP](https://code-basics.com/ru/languages/php) или [Хекслет: PHP: Массивы](https://ru.hexlet.io/courses/php-arrays) — первые уроки (1 час)
 
 ### Виды массивов
 

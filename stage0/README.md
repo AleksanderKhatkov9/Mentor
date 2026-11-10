@@ -135,7 +135,7 @@
 | [CV#1. Markdown & Git](tasks/cv/cv-1-markdown-git.md) | автоматически | 100 |
 | [CV#2. HTML, CSS & Git Basics](tasks/cv/cv-2-html-css-git.md) | автоматически | 100 |
 | [CV#3. CV. Cross-Check](tasks/cv/cv-3-cross-check.md) | кросс-чек | 100 |
-| [Coffee Shop#1](tasks/coffee-shop/coffee-shop-1.md) | кросс-чек | 100 |
+| [Coffee Shop#1](tasks/coffee-shop/coffee-shop-1.md) | кросс-чек | 120 |
 | [Coffee Shop#2](tasks/coffee-shop/coffee-shop-2.md) | кросс-чек | 100 |
 | [Coffee Shop#3](tasks/coffee-shop/coffee-shop-3.md) | кросс-чек | 150 |
 | [PHP-101](tasks/php-101.md) | автотесты | 100 |
@@ -144,7 +144,7 @@
 | [Алгоритмы, часть 1](modules/data-structures-part-1/tasks.md) (3 × 30) | автотесты | 90 |
 | [Алгоритмы, часть 2](modules/data-structures-part-2/tasks.md) (5 × 20) | автотесты | 100 |
 | Тесты по модулям (12 × 10) | самопроверка | 120 |
-| **Итого** | | **1360** |
+| **Итого** | | **1380** |
 
 Для перехода в [Stage 1](../stage1/README.md) рекомендуется набрать **800 баллов** и сдать [PHP-101](tasks/php-101.md) не меньше чем на 70 баллов. Задания, сданные в неделю досдачи, оцениваются в 50% баллов.
 

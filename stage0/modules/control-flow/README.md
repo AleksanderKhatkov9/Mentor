@@ -18,7 +18,7 @@
 1. [php.net: Операторы сравнения](https://www.php.net/manual/ru/language.operators.comparison.php) (0.5 часа)
 2. [php.net: Управляющие конструкции](https://www.php.net/manual/ru/language.control-structures.php) — `if`, `else`, `elseif`, `while`, `for`, `foreach`, `break`, `continue`, `match` (1.5 часа)
 3. [php.net: Функции](https://www.php.net/manual/ru/language.functions.php) — пользовательские функции, аргументы, возврат значений (1 час)
-4. [Code Basics: PHP](https://ru.code-basics.com/languages/php) — модули «Логика», «Условные конструкции», «Циклы», «Функции» (1 час)
+4. [Code Basics: PHP](https://code-basics.com/ru/languages/php) — модули «Логика», «Условные конструкции», «Циклы», «Функции» (1 час)
 
 ### Сравнение
 

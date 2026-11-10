@@ -19,7 +19,7 @@
 2. [php.net: Переменные](https://www.php.net/manual/ru/language.variables.basics.php) (0.5 часа)
 3. [php.net: Типы](https://www.php.net/manual/ru/language.types.intro.php) — `bool`, `int`, `float`, `string`, `null` (1 час)
 4. [php.net: include](https://www.php.net/manual/ru/function.include.php) и [require](https://www.php.net/manual/ru/function.require.php) (0.5 часа)
-5. [Хекслет: Основы PHP](https://ru.hexlet.io/programs/php-basics-free) или [Code Basics: PHP](https://ru.code-basics.com/languages/php) — модули «Введение», «Арифметика», «Строки», «Переменные» (1.5 часа)
+5. [Хекслет: Основы PHP](https://ru.hexlet.io/programs/php-basics-free) или [Code Basics: PHP](https://code-basics.com/ru/languages/php) — модули «Введение», «Арифметика», «Строки», «Переменные» (1.5 часа)
 
 ### Установка
 

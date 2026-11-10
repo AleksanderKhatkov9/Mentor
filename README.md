@@ -112,7 +112,7 @@ mentor-php/
 
 | Этап | Даты | Темы | Порог перехода |
 | --- | --- | --- | --- |
-| [Stage 0. Preparatory Stage](stage0/README.md) | 16.11.2026 – 31.01.2027, 9 недель + каникулы | Git, HTML и CSS, HTTP, введение в PHP, формы, файлы, проекты CV, Coffee Shop, Dashboard, Codewars, основы алгоритмов | 800 из 1360 + сдан PHP-101 |
+| [Stage 0. Preparatory Stage](stage0/README.md) | 16.11.2026 – 31.01.2027, 9 недель + каникулы | Git, HTML и CSS, HTTP, введение в PHP, формы, файлы, проекты CV, Coffee Shop, Dashboard, Codewars, основы алгоритмов | 800 из 1380 + сдан PHP-101 |
 | [Stage 1. Core PHP](stage1/README.md) | 01.02.2027 – 25.04.2027, 12 недель | типы, функции, строки, массивы, сортировки, структуры данных, ООП, SOLID, рекурсия, деревья, HTTP, безопасность | 1200 из 1830 + собеседование |
 | [Stage 2. Web, Databases, Testing](stage2/README.md) | 26.04.2027 – 20.06.2027, 8 недель | SQL, PDO, транзакции, PHPUnit и TDD, графы, REST API, JWT, Docker, Redis, очереди, CI | 900 из 1340 + собеседование |
 | [Stage 3. Framework & Final Project](#stage-3-framework--final-project) | 21.06.2027 – 01.08.2027, 6 недель | Laravel или Symfony, командный проект | защита проекта |
