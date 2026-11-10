@@ -1,0 +1,37 @@
+[
+    {
+        "id": "6730a1f2c4e1a",
+        "amount": 15000,
+        "category": "Жильё",
+        "date": "2026-11-02",
+        "comment": "Аренда"
+    },
+    {
+        "id": "6730a1f2c4e1b",
+        "amount": 120,
+        "category": "Транспорт",
+        "date": "2026-11-05",
+        "comment": "Метро"
+    },
+    {
+        "id": "6730a1f2c4e1c",
+        "amount": 450,
+        "category": "Еда",
+        "date": "2026-11-09",
+        "comment": "Обед"
+    },
+    {
+        "id": "6730a1f2c4e1d",
+        "amount": 1200,
+        "category": "Развлечения",
+        "date": "2026-10-25",
+        "comment": "Кино"
+    },
+    {
+        "id": "6730a1f2c4e1e",
+        "amount": 980.5,
+        "category": "Еда",
+        "date": "2026-10-18",
+        "comment": "Продукты"
+    }
+]
